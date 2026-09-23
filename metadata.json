@@ -1,0 +1,6 @@
+{
+  "name": "Crime Records Management System",
+  "description": "Enterprise police and criminal records management system with case tracking, suspect dossiers, investigative timelines, and geographic crime analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
